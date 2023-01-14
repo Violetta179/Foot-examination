@@ -1,0 +1,34 @@
+.button1
+{
+-fx-background-color: black;
+-fx-background-image: url(../Stopa/w.png);
+ -fx-background-size: 32px;
+ -fx-background-repeat: no-repeat;
+ -fx-background-position: 10%;
+-fx-text-fill: white;
+}
+
+.button1: hover
+{
+-fx-background-color: blue;
+-fx-background-image: url(../Stopa/w.png);
+ -fx-background-size: 25px;
+ -fx-background-repeat: no-repeat;
+ -fx-background-position: 10%;
+-fx-text-fill: black;
+}
+.button2
+{
+-fx-background-color: black;
+-fx-text-fill: white;
+}
+.button2: hover
+{
+-fx-background-color: blue;
+-fx-text-fill: black;
+}
+
+.image_back
+{
+-fx-background-image: url(../Stopa/image-icon.jpg);
+}
